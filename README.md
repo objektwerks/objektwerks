@@ -1,5 +1,5 @@
-Github Stats
-------------
+Contributions
+-------------
 >A ranking of **S** = **Top 25%**
 
 >For the past few years, by choice, I've ***only*** been working on ***open source*** projects!
