@@ -1,4 +1,4 @@
->A ranking of **S** equals the top **25%** of Github contributors.
+>A ranking of **S** equates to the top ***25%*** of Github contributors.
 
 >For the past few years, by choice, I've ***only*** been working on ***open source*** projects!
 
