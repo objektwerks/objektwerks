@@ -2,6 +2,6 @@
 
 >The reader should take these stats with a healthy grain of salt, though. ;)
 
->For the past few years, by choice, I've ***only*** been working on ***open source*** projects.
+>For the past few years, I've been working ***only*** on ***open source*** projects.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
