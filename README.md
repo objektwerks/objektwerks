@@ -1,6 +1,6 @@
 >A ranking of **S** equates to the top ***25%*** of all Github contributors.
 
->The reader should take these stats with a healthy grain of salt, though. ;)
+>The reader, of course, should take these stats with a healthy grain of salt. ;)
 
 >For the past few years, I've been working ***only*** on ***open source*** projects.
 
