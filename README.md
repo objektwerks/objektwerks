@@ -1,4 +1,4 @@
->A ranking of ***S*** equates to the top ***25%*** of all Github contributors.
+>A ranking of ***S*** equates to the top ***25%*** of ***all*** Github contributors.
 
 >The reader, of course, should take ***all*** Github rankings with a healthy grain of salt. ;)
 
