@@ -4,6 +4,6 @@
 >The reader, of course, should take ***all*** Github rankings with a healthy grain of salt. ;)
 -->
 
-I've been working on ***open source*** projects the past few years, using ***Scala 3***.
+I've been working on ***open source*** projects the past few years using ***Scala 3***.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
