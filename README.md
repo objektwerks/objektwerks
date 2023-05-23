@@ -1,8 +1,4 @@
-<!---
->A ranking of ***S*** equates to the top ***25%*** of ***all*** Github contributors.
-
->The reader, of course, should take ***all*** Github rankings with a healthy grain of salt. ;)
--->
+<!--- top commit numnber: 12657 -->
 
 I've been working on ***open source*** projects the past few years using ***Scala 3***.
 
