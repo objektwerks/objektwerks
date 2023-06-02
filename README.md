@@ -1,4 +1,4 @@
-<!--- top commit numnber: 12657 -->
+<!--- top commit numnber: 12749 -->
 
 I've been working on ***open source*** projects the past few years using ***Scala 3***.
 
@@ -8,6 +8,3 @@ Consequently a former **S** ranking is now a **B**.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
  
-<!---
-![](https://github-readme-stats-git-rank-rickstaa.vercel.app/api?username=objektwerks&include_all_commits=true)
--->
