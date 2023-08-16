@@ -9,4 +9,5 @@ Working on ***open source*** projects the past few years using ***Scala 3***.
 <!--
 8.14
 8.15
+8.16
 -->
