@@ -5,10 +5,3 @@ Working on ***open source*** projects the past few years using ***Scala 3***.
 <!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true&rank_icon=percentile)
 -->
-
-<!--
-8.14
-8.15
-8.16
-8.17
--->
