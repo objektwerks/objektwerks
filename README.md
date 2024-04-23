@@ -1,4 +1,4 @@
-Working on ***Scala 3 open source*** projects.
+Designing, building and exploring ***Scala 3 open source*** projects.
 
 <!-- Top Github commit number: ***13,823*** -->
 
