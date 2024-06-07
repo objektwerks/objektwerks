@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
 
-* Top Github annual commit number: ***14,447***
-* Top Github monthly commit number: ***1,793***
+* Top annual commits: ***14,447***
+* Top monthly commits: ***1,793***
 
 >[Resume](https://github.com/objektwerks/resume)
