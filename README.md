@@ -2,7 +2,7 @@
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true) -->
 
-<!-- * Top annual commits:  ***14,494*** -->
+<!-- * Top annual commits:  ***14,537*** -->
 <!-- * Top monthly commits: ***1,793*** -->
 
 >[Resume](https://github.com/objektwerks/resume)
