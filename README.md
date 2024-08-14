@@ -1,7 +1,6 @@
 >Designing, building and exploring ***Scala 3 open source*** projects.
 
 <!--- 
-
 >![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
 
 >![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=objektwerks&hide=css,html,javascript)
@@ -16,6 +15,3 @@
 >[Resume](https://github.com/objektwerks/resume)
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
-<!--- holiday 1 --->
-<!--- holiday 2 --->
-<!--- holiday 3 --->
