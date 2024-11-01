@@ -11,7 +11,7 @@
 <!--- 
 >Top annual commits:  ***17,147***
 
->Top monthly commits: ***1,953***
+>Top monthly commits: ***2,154***
 --->
  
 >[Resume](https://github.com/objektwerks/resume)
