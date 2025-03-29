@@ -6,8 +6,10 @@
 
 >Top annual commits:  ***18,464***
 
+<!---
 >Top monthly commits: ***2,154***
-
+--->
+ 
 >[Resume](https://github.com/objektwerks/resume)
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
