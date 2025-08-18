@@ -4,11 +4,9 @@
 
 >![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=objektwerks&hide=css,html,javascript)
 
-<!---
 >Top annual commits:  ***18,704***
 
 >Top monthly commits: ***2,154***
---->
 
 >[Resume](https://github.com/objektwerks/resume)
 
