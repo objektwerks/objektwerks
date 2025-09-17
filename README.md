@@ -1,7 +1,5 @@
 >Designing, building, publishing and exploring ***Scala 3 open source*** projects.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/objektwerks)](https://git.io/awesome-stats-card)
-
 <!---
 >![Stats](https://github-readme-stats.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
 --->
