@@ -9,7 +9,7 @@
 --->
 
 >Stats:
-* Rank: **B**
+* Rank: ***B***
 * Stars: ***69***
 * Contributions: ***19***
 * Top annual commits:  ***18,704***
