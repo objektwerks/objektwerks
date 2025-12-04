@@ -8,11 +8,9 @@
 >![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=objektwerks&hide=css,html,javascript)
 --->
 
-<!---
 >Stars: ***69***
 
 >Contributions: ***19***
---->
 
 <!---
 >Top annual commits:  ***18,704***
