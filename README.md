@@ -10,9 +10,8 @@
 --->
 
 >Stats:
-* Rank: ***B***
 * Stars: ***69***
-* Contributions: ***19***
+* Contributions: ***21***
 * Top annual commits:  ***18,704***
 * Top monthly commits: ***2,154***
 
