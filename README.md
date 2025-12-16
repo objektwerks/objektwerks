@@ -2,9 +2,7 @@
 
 >![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true)
 
-<!---
 >![Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=objektwerks&hide=css,html,javascript)
---->
 
 <!---
 >Stats:
