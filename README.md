@@ -19,4 +19,5 @@
 
 >[Recipes](https://github.com/objektwerks/recipes)
 
+>**Note:** The commit numbers on this page are no longer accurated; because Github now routinely loses commits!
 <!--- https://github.com/anuraghazra/github-readme-stats --->
