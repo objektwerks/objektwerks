@@ -20,4 +20,5 @@
 >[Recipes](https://github.com/objektwerks/recipes)
 
 >**Note:** The commit numbers on this page are no longer accurate; because Github now routinely loses and/or fails to count commits!
+>Hashimoto is right - Github 'is no longer for serious work'.
 <!--- https://github.com/anuraghazra/github-readme-stats --->
