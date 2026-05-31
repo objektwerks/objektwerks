@@ -1,6 +1,6 @@
 >Designing, building, publishing and exploring ***Scala 3 open source*** projects.
 
->![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true&theme=one_dark_pro)
+>![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true&theme=darcula)
 
 <!---
 >![Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=objektwerks&hide=css,html,javascript)
