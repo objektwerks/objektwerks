@@ -19,9 +19,7 @@
 
 >[Recipes](https://github.com/objektwerks/recipes)
 
->Note:
-
->Github routinely fails to correctly account for my commits; hence my commit numbers are no longer accurate!
->Hashimoto, of HashiCorp fame, is correct in stating - Github ***is no longer a place for serious work***.
+>Note: Github routinely fails to correctly account for my commits; hence my commit numbers are no longer accurate!
+Hashimoto, of HashiCorp fame, is correct in stating - Github ***is no longer a place for serious work***.
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
