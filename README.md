@@ -19,7 +19,7 @@
 
 >[Recipes](https://github.com/objektwerks/recipes)
 
->**Warning:** Github routinely fails to count discrete commits. Consequently the *commits* count is ***inaccurate!***
+>**Warning:** Github routinely fails to count discrete commits. Consequently the *total commits* count is ***inaccurate!***
 Even the *followers* count is ***inaccurate!*** Hashimoto, of HashiCorp fame, was spot on in stating - ***Github is no
 longer a place for serious work***.
 
