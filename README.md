@@ -1,9 +1,9 @@
 >Designing, building, publishing and exploring ***Scala 3 open source*** projects.
 
->![Stats](https://github-stats-extended/api?username=objektwerks&show_icons=true&hide_border=true&theme=darcula)
+>![Stats](https://github-stats-extended.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true&theme=darcula)
 
 <!---
->![Stats](https://github-stats-extended/api/top-langs?username=objektwerks&hide=css,html,javascript)
+>![Stats](https://github-stats-extended.vercel.app/api?username=objektwerks&hide=css,html,javascript)
 --->
 
 <!---
