@@ -3,10 +3,6 @@
 >![Stats](https://github-stats-extended.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true&theme=darcula)
 
 <!---
->![Stats](https://github-stats-extended.vercel.app/api?username=objektwerks&hide=css,html,javascript)
---->
-
-<!---
 >Stats:
 * Rank: ***S***
 * Stars: ***69***
@@ -25,4 +21,4 @@ Even the *followers* count is ***inaccurate!*** Hashimoto, of HashiCorp fame, wa
 longer a place for serious work***.
 --->
 
-<!--- https://github.com/anuraghazra/github-readme-stats --->
+<!-- https://github.com/stats-organization/github-stats-extended --->
