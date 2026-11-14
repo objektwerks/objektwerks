@@ -2,6 +2,8 @@
 
 >![Stats](https://github-stats-extended.vercel.app/api?username=objektwerks&show_icons=true&hide_border=true&theme=darcula)
 
+<!--- Docs: https://github.com/stats-organization/github-stats-extended --->
+
 <!---
 >Stats:
 * Rank: ***S***
